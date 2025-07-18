@@ -6,22 +6,19 @@ My name is Giovanna Vidalle, and I'm based in São Paulo, Brazil. I'm currently 
 I'm actively seeking internship opportunities in the **Data field**, where I can apply my knowledge, develop both technical and interpersonal skills, and contribute with integrity to a forward-thinking team.
 
 
-## 🔧 Habilidades
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?logo=powerbi)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sklearn%20%7C%20XGBoost-green)
----
-
 ### 🛠️ Tools & Technologies
 
-<div align="center" >
-    <img src="https://skillicons.dev/icons?i=python,sql,powerbi,java,figma,git,linux,vscode,github,postgres,ps" />
-</div>
 
-![Data Science](https://img.shields.io/badge/Data%20Science-Python%2C%20Pandas%2C%20Sklearn-blue)
+![Data Science](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Data Science](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Data Science](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Data Science](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 
 ---
 
